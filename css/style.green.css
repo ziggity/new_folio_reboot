@@ -178,6 +178,7 @@ INTRO
   -o-background-size: cover;
   background-size: cover;
   -webkit-backface-visibility: hidden;
+  min-height: 100%;
 }
 #intro .item .logo {
   margin-bottom: 120px;

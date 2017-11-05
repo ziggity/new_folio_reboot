@@ -441,7 +441,7 @@ function waypointsRefresh() {
 }
 
 /* ajax contact form */
-
+$("contact-form").trigger("reset");
 // function contactForm() {
 //     $("#contact-form").submit(function () {
 //

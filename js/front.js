@@ -9,7 +9,6 @@ $(function () {
     fullScreenContainer();
     utils();
     sliding();
-    contactForm();
     map();
     counters();
     parallax();

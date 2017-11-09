@@ -172,13 +172,12 @@ INTRO
 }
 #intro .item {
   height: 100%;
-  background-color: #75C6D1; center center no-repeat;
+  background: url('../img/home.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   -webkit-backface-visibility: hidden;
-  /*min-height: 100%;*/
 }
 #intro .item .logo {
   margin-bottom: 120px;
